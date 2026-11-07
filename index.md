@@ -13,11 +13,6 @@ layout: default
 - 折腾这个网站
 - 研读go圣经 [go圣经](https://www.kancloud.cn/hartnett/gopl-zh/126045)
 
-## 找我
-
-- GitHub：Bo(https://github.com/censored6)
-
-
 # 学习路线
 
 ## Week 1
@@ -32,3 +27,8 @@ layout: default
 
 学习成果：
 [第一周](https://github.com/CENSORED6/CENSORED6.github.io/tree/main/muxi/week%201) 按照学习的时间
+
+
+## 找我
+
+- GitHub：Bo(https://github.com/censored6)
