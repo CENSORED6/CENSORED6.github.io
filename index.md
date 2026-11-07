@@ -11,7 +11,7 @@ layout: default
 - 学Go和C
 - 整理课程笔记
 - 折腾这个网站
-- 研读go圣经 https://www.kancloud.cn/hartnett/gopl-zh/126045
+- 研读go圣经 [go圣经](https://www.kancloud.cn/hartnett/gopl-zh/126045)
 
 ## 找我
 
