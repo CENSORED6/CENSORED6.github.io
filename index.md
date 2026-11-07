@@ -31,4 +31,4 @@ layout: default
 - [X] 5. 将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
 学习成果：
-[第一周}(https://github.com/CENSORED6/CENSORED6.github.io/tree/main/muxi/week%201) 按照学习的时间
+[第一周](https://github.com/CENSORED6/CENSORED6.github.io/tree/main/muxi/week%201) 按照学习的时间
