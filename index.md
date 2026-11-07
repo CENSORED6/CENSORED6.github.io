@@ -8,9 +8,10 @@ layout: default
 
 ## 最近在做什么
 
-- 学 Go 和数据结构
+- 学Go和C
 - 整理课程笔记
 - 折腾这个网站
+- 研读go圣经 https://www.kancloud.cn/hartnett/gopl-zh/126045
 
 ## 找我
 
