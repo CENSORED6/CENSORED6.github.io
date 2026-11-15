@@ -41,6 +41,7 @@ layout: default
 <details>
 <summary>代码</summary>
 
+...go
 package main
 
 type message struct {
