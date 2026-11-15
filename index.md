@@ -125,7 +125,7 @@ func main() {
 func fn(m []MSG) {
     fmt.Printf("本次消费了%d条消息\n", len(m))
 }
-
+```
 </details>
 
 - [X] 5. 使用for循环生成20个goroutine,每个goroutine随机休眠0~1000ms，并向一个channel传入随机数和goroutine编号(从1-20)，等待这些goroutine都生成完后，想办法给这些随机数按照编号进行排序(输出排序前和排序后的结果,要求不使用额外的空间存储这20个数据)
