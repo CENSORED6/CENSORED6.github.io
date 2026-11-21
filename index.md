@@ -133,6 +133,14 @@ func fn(m []MSG) {
 学习成果：
 [第二周](https://github.com/CENSORED6/CENSORED6.github.io/tree/main/muxi/week%201) 
 
+## Week 3
+主线任务
+- [X] 1. 完成小游戏[木犀骇客](https://github.com/weiji6/http-theft-bank-start-template)
+- [X] 2. 利用上周学习的并发基础内容（goroutine、channel、sync包），完成招新机试第四题
+
+学习成果：
+[第三周](https://github.com/CENSORED6/CENSORED6.github.io/tree/main/muxi/week3) 
+
 
 ## 找我
 
