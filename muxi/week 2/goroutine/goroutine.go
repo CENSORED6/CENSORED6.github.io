@@ -12,8 +12,6 @@ type Item struct {
 	n  int
 }
 
-const n = 20
-
 func main() {
 	ch := make(chan Item)
 

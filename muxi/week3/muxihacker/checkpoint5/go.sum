@@ -1,0 +1,4 @@
+github.com/blackfireio/osinfo v1.1.0 h1:1LMkMiFL42+Brx7r3MKuf7UTlXBRgebFLJQAfoFafj8=
+github.com/blackfireio/osinfo v1.1.0/go.mod h1:Pd987poVNmd5Wsx6PRPw4+w7kLlf9iJxoRKPtPAjOrA=
+github.com/weiji6/hacker-support v0.0.0-20251113040147-aa404dc9fa44 h1:EaEYeC3vROwz16qxJianyD7DnzYe3tuQaYdWqL2QHP0=
+github.com/weiji6/hacker-support v0.0.0-20251113040147-aa404dc9fa44/go.mod h1:V8R/Ci9PD1zbhoY7hlAeoYdGfpXCoMmDKr7hB5IBkbk=
